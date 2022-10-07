@@ -1,0 +1,1 @@
+As a new full-stack developer joining the team, the lead developer has assigned this new course assessment feature to you. In order to deliver this feature, you will need to leverage your Django full-stack skills to design and implement related models, templates, and views. Then, you will need to test and deploy the updated online course app on IBM Cloud Foundry.
